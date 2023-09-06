@@ -86,9 +86,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8d189cbb5b5620b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tokenizer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a799cd82f0b89db3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rouge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca6495c97b8cbb95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLEU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -154,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "App.md",
+                "file": "BLEU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "App.md",
+                "file": "BLEU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "App.md"
+                "file": "BLEU.md"
               }
             }
           }
@@ -215,10 +251,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8fe2593eb8c4702",
+  "active": "ca6495c97b8cbb95",
   "lastOpenFiles": [
-    "Dataset.md",
+    "Rouge.md",
+    "BLEU.md",
+    "Tokenizer.md",
     "App.md",
+    "Dataset.md",
     "Related Works.md",
     "CHAP 2.md",
     "BART.md"
