@@ -1,0 +1,5 @@
+MedBot application provides users with functions such as posting questions, answers, news, searching for healthcare information in an easy, fast, and easy way. effective. In addition, the chatbot feature is integrated into the application to help users get answers, advice related to actual healthcare problems accurately and quickly.
+
+Chatbot forum website consists of 2 main parts: the application and chatbot.
+
+The application section helps users interact with the chatbot and supports the collection of questions and answers to improve the effectiveness of the training medical chatbot. In addition, the application section also supports users to find questions, answers, and news related to healthcare. In addition, users can also search for medical advice to prepare themselves for the better health and life long healthy.
