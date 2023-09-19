@@ -11,3 +11,9 @@ https://chamsocsuckhoemhc.com/category/hoi-dap-cham-soc-suc-khoe-tai-nha/
 https://medlatec.vn/tin-tuc-y-khoa
 https://vinmec.com/vi/tin-tuc/
 https://benhvien108.vn/hoi-dap.htm
+https://github.com/demdecuong/vihealthbert
+https://benhvienthucuc.vn/hoi-dap-chuyen-gia/sau-khi-tiem-vac-xin-covid-19-can-tranh-an-thuc-pham-nao/
+http://diendansuckhoe24h.net/forums/suc-khoe-tre-em/
+
+Need manual collect
+https://suckhoe123.vn/suc-khoe/tin-tuc-suc-khoe/dien-dan/

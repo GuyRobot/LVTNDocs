@@ -1,3 +1,5 @@
+https://aclanthology.org/P02-1040.pdf
+https://cloud.google.com/translate/automl/docs/evaluate#bleu
 [BLEU](https://aclanthology.org/P02-1040.pdf), or the Bilingual Evaluation Understudy, is a metric for comparing a candidate translation to one or more reference translations.
 
 Although developed for translation, it can be used to evaluate text generated for different natural language processing tasks, such as paraphrasing and text summarization.
