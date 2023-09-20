@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note.md",
+                "file": "Transformer.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note.md",
+                "file": "Transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note.md",
+                "file": "Transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note.md"
+                "file": "Transformer.md"
               }
             }
           },
@@ -171,17 +171,17 @@
   },
   "active": "cab1784ecdf62f80",
   "lastOpenFiles": [
+    "Note.md",
+    "BART.md",
+    "Transformer.md",
+    "REFERENCE.md",
     "Dataset.md",
     "Word Embedding.md",
     "Tokenizer.md",
-    "Transformer.md",
     "BLEU.md",
-    "REFERENCE.md",
     "Rouge.md",
     "Related Works.md",
-    "Note.md",
     "CHAP 2.md",
-    "BART.md",
     "App.md"
   ]
 }
