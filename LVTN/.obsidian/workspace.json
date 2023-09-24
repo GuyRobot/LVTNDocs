@@ -171,8 +171,11 @@
   },
   "active": "cab1784ecdf62f80",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "App.md",
     "Dataset.md",
+=======
+>>>>>>> 85086a335e0de45d9a08d4f882637cab2898f13e
     "Transformer.md",
     "Note.md",
     "BART.md",

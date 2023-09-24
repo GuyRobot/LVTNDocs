@@ -20,3 +20,10 @@ Start rasa
 - ``rasa interactive`` or ``rasa run --model models --enable-api --cors “*”``
 
 https://azrotv.com/extras/sms-verification/messages.php?id=4489
+
+Taichi: Sáng - nắng (rừng đen)
+Cá voi: Sáng - nắng (núi tuyết)
+Kappa: Trời mưa là được (gia viên, rừng mộng)
+Rái cá: Sáng - mưa (núi tuyết)
+Cá mập: Đêm - mưa (rừng mộng)
+Killi ma: Đêm - mưa (bãi cát)
