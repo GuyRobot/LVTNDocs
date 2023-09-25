@@ -1,52 +1,60 @@
 {
   "main": {
-    "id": "2bca265a400a3821",
+    "id": "010b61be202317ed",
     "type": "split",
     "children": [
       {
-        "id": "c03474ac7c368372",
+        "id": "801212d3cb0e5cdc",
         "type": "tabs",
         "children": [
           {
-            "id": "24af0b9db52b0a44",
+            "id": "c0ea6df62e954a4b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "38b6c2230f6c7f03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tokenizer.md",
+                "file": "BERT.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cab1784ecdf62f80",
+            "id": "89e9388262b667b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note.md",
+                "file": "Dataset.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "36b27823569a0b30",
+    "id": "6df70ff3844d0254",
     "type": "split",
     "children": [
       {
-        "id": "655bf51420b2663a",
+        "id": "5725c69d59a43598",
         "type": "tabs",
         "children": [
           {
-            "id": "d2a0e46825421e54",
+            "id": "73f7c100f1b9671e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +64,7 @@
             }
           },
           {
-            "id": "7d0a3b0a0a786061",
+            "id": "aa8926ba2b401376",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +79,7 @@
             }
           },
           {
-            "id": "efe0266b3500b7f9",
+            "id": "4a762f2da8946c28",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +93,20 @@
     "width": 300
   },
   "right": {
-    "id": "e398d513f78f7370",
+    "id": "be7102ee3016caeb",
     "type": "split",
     "children": [
       {
-        "id": "9e0e3a41f1db0930",
+        "id": "3e0def7ed3a62dce",
         "type": "tabs",
         "children": [
           {
-            "id": "e11fc79937503dc6",
+            "id": "a75c473ae0cd5ab0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note.md",
+                "file": "Dataset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +118,19 @@
             }
           },
           {
-            "id": "351ad06bc132b0d9",
+            "id": "d64e35b6fa2d19d4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note.md",
+                "file": "Dataset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0aade4b84718f06c",
+            "id": "68dd4003c616a6ec",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,22 +141,22 @@
             }
           },
           {
-            "id": "a76aa86f2c1287a9",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Note.md"
-              }
-            }
-          },
-          {
-            "id": "4322f92112bc91b8",
+            "id": "c8359138ec739e17",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "541ab40f1f1bc3b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dataset.md"
               }
             }
           }
@@ -169,22 +177,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cab1784ecdf62f80",
+  "active": "89e9388262b667b1",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "App.md",
-    "Dataset.md",
-=======
->>>>>>> 85086a335e0de45d9a08d4f882637cab2898f13e
-    "Transformer.md",
-    "Note.md",
+    "CHAP 2.md",
     "BART.md",
-    "REFERENCE.md",
-    "Word Embedding.md",
-    "Tokenizer.md",
-    "BLEU.md",
-    "Rouge.md",
-    "Related Works.md",
-    "CHAP 2.md"
+    "Dataset.md",
+    "GPT.md",
+    "BERT.md"
   ]
 }

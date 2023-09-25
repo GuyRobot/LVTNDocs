@@ -1,4 +1,9 @@
+https://medium.com/mlearning-ai/paper-summary-bart-denoising-sequence-to-sequence-pre-training-for-natural-language-generation-69e41dfbb7fe
+https://github.com/jc-hou/train_bart_from_scratch/blob/main/modeling_bart.py
+https://github.com/shmsw25/bart-closed-book-qa/blob/master/bart.py
+https://www.geeksforgeeks.org/bart-model-for-text-auto-completion-in-nlp/
 ***BART Overview***
+
 BART is a denoising autoencoder that maps a corrupted
 document to the original document it was derived from.
 It is implemented as a sequence-to-sequence model
