@@ -33,14 +33,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dataset.md",
+                "file": "Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70e0517953a45693",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REFERENCE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataset.md",
+                "file": "REFERENCE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dataset.md",
+                "file": "REFERENCE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataset.md"
+                "file": "REFERENCE.md"
               }
             }
           }
@@ -177,11 +189,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89e9388262b667b1",
+  "active": "70e0517953a45693",
   "lastOpenFiles": [
+    "Related Works.md",
+    "REFERENCE.md",
+    "Training.md",
+    "Note.md",
+    "Dataset.md",
     "CHAP 2.md",
     "BART.md",
-    "Dataset.md",
     "GPT.md",
     "BERT.md"
   ]
