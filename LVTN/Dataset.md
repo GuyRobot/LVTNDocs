@@ -5,10 +5,10 @@ https://gifts.vinhgiang.com/a-youtube-1?gc_id=20394610233&gclid=Cj0KCQjwvL-oBhCx
 - [x] https://cih.com.vn/forum/cam-nang-suc-khoe.html?start=260
 - [x] http://benhvienquany105.vn/hoi-dap-suc-khoe
 - [x] https://vnexpress.net/suc-khoe/cham-soc-nguoi-benh/hoi-dap-p4
-https://benhvienthucuc.vn/hoi-dap-chuyen-gia/chuyen-muc-khac/
-https://bacsituvan.vn/danh-muc/hoi-dap?type=replied#replied
-https://www.24h.com.vn/hoi-dap-suc-khoe-c62e6211.html
-https://chamsocsuckhoemhc.com/category/hoi-dap-cham-soc-suc-khoe-tai-nha/
+- [x] https://benhvienthucuc.vn/hoi-dap-chuyen-gia/chuyen-muc-khac/
+- [x] https://bacsituvan.vn/danh-muc/hoi-dap?type=replied#replied
+- [x] https://www.24h.com.vn/hoi-dap-suc-khoe-c62e6211.html
+- [x] https://chamsocsuckhoemhc.com/category/hoi-dap-cham-soc-suc-khoe-tai-nha/
 dien dan cham soc  suc khoe
 
 

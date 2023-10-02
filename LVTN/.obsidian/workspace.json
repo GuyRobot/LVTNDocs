@@ -33,7 +33,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dataset.md",
+                "file": "Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70e0517953a45693",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +86,11 @@
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 5
+=======
+        "currentTab": 3
+>>>>>>> 2aaeba42e6129ca86fecb512a1afa49506e7a1a5
       }
     ],
     "direction": "vertical"
@@ -211,6 +227,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "b5b66b999ac32bde",
   "lastOpenFiles": [
     "Remove word.md",
@@ -218,9 +235,17 @@
     "Transformer.md",
     "REFERENCE.md",
     "Note.md",
+=======
+  "active": "70e0517953a45693",
+  "lastOpenFiles": [
+    "REFERENCE.md",
+    "Related Works.md",
+    "Training.md",
+    "Note.md",
+    "Dataset.md",
+>>>>>>> 2aaeba42e6129ca86fecb512a1afa49506e7a1a5
     "CHAP 2.md",
     "BART.md",
-    "Dataset.md",
     "GPT.md",
     "BERT.md"
   ]
