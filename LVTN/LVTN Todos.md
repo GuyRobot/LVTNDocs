@@ -1,11 +1,11 @@
 - Finish flutter app
-	- Sign up
-	- Sign in
-	- Conversations
+	- [x] Sign up
+	- [x] Sign in
+	- [x] Conversations
 - Finish the web app (if any)
-	- Admin
+	- [x] Admin
 - Finish Doc
-	- Add pictures
+	- [x] Add pictures
 	- Modify model
 	- Optionally, train or add related model
 	- Add BERT, GPT model architecture
@@ -13,4 +13,4 @@
 		- Demo
 		- BLEU score
 - Train model more
-	- Post-processing output
+	- [x] Post-processing output
