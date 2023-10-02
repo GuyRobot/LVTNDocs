@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REFERENCE.md",
+                "file": "Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REFERENCE.md",
+                "file": "Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REFERENCE.md",
+                "file": "Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REFERENCE.md"
+                "file": "Note.md"
               }
             }
           }
@@ -191,8 +191,8 @@
   },
   "active": "70e0517953a45693",
   "lastOpenFiles": [
-    "Related Works.md",
     "REFERENCE.md",
+    "Related Works.md",
     "Training.md",
     "Note.md",
     "Dataset.md",

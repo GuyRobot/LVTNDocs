@@ -27,3 +27,5 @@ Kappa: Trời mưa là được (gia viên, rừng mộng)
 Rái cá: Sáng - mưa (núi tuyết)
 Cá mập: Đêm - mưa (rừng mộng)
 Killi ma: Đêm - mưa (bãi cát)
+
+0935792847
