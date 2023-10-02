@@ -38,9 +38,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9cfbeaa84b1b18d8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
+            "id": "ca4d0074186e7eaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5b66b999ac32bde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -106,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataset.md",
+                "file": "Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dataset.md",
+                "file": "Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataset.md"
+                "file": "Note.md"
               }
             }
           }
@@ -177,8 +211,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89e9388262b667b1",
+  "active": "b5b66b999ac32bde",
   "lastOpenFiles": [
+    "Remove word.md",
+    "LVTN Todos.md",
+    "Transformer.md",
+    "REFERENCE.md",
+    "Note.md",
     "CHAP 2.md",
     "BART.md",
     "Dataset.md",

@@ -7,3 +7,5 @@ https://www.jeremyjordan.me/transformer-architecture/
 https://arxiv.org/pdf/1706.03762.pdf
 http://jalammar.github.io/illustrated-transformer/
 https://www.tensorflow.org/text/tutorials/transformer
+https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853
+https://www.revistek.com/posts/transformer-architecture

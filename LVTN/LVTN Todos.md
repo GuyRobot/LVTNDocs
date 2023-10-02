@@ -1,0 +1,16 @@
+- Finish flutter app
+	- Sign up
+	- Sign in
+	- Conversations
+- Finish the web app (if any)
+	- Admin
+- Finish Doc
+	- Add pictures
+	- Modify model
+	- Optionally, train or add related model
+	- Add BERT, GPT model architecture
+	- Result
+		- Demo
+		- BLEU score
+- Train model more
+	- Post-processing output
