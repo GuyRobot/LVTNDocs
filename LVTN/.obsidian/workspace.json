@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note.md",
+                "file": "LVTN Todos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note.md",
+                "file": "LVTN Todos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note.md",
+                "file": "LVTN Todos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note.md"
+                "file": "LVTN Todos.md"
               }
             }
           }
@@ -158,8 +158,8 @@
   },
   "active": "b2affdb290a17a17",
   "lastOpenFiles": [
+    "Note.md",
     "REFERENCE.md",
-    "LVTN Todos.md",
-    "Note.md"
+    "LVTN Todos.md"
   ]
 }
