@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LVTN Todos.md",
+                "file": "GPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LVTN Todos.md",
+                "file": "GPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LVTN Todos.md",
+                "file": "GPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LVTN Todos.md"
+                "file": "GPT.md"
               }
             }
           }
@@ -158,8 +158,9 @@
   },
   "active": "b2affdb290a17a17",
   "lastOpenFiles": [
-    "Note.md",
+    "BERT.md",
     "REFERENCE.md",
-    "LVTN Todos.md"
+    "LVTN Todos.md",
+    "Note.md"
   ]
 }
