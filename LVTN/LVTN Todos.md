@@ -6,7 +6,7 @@
 	- [x] Admin
 - Finish Doc
 	- [x] Add pictures
-	- Modify model
+	- Modify model [x]?
 	- Optionally, train or add related model
 	- Add BERT, GPT model architecture
 	- Result
