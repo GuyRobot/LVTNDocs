@@ -2,6 +2,7 @@ https://medium.com/mlearning-ai/paper-summary-bart-denoising-sequence-to-sequenc
 https://github.com/jc-hou/train_bart_from_scratch/blob/main/modeling_bart.py
 https://github.com/shmsw25/bart-closed-book-qa/blob/master/bart.py
 https://www.geeksforgeeks.org/bart-model-for-text-auto-completion-in-nlp/
+https://www.geeksforgeeks.org/bart-model-for-text-auto-completion-in-nlp/
 ***BART Overview***
 
 BART is a denoising autoencoder that maps a corrupted

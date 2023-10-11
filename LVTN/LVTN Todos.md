@@ -6,11 +6,11 @@
 	- [x] Admin
 - Finish Doc
 	- [x] Add pictures
-	- Modify model [x]?
+	- [x] Modify model [x]?
 	- Optionally, train or add related model
-	- Add BERT, GPT model architecture
-	- Result
-		- Demo
+	- [x] Add BERT, GPT model architecture
+	- Result (TODO: Weekend)
+		- Demo 
 		- BLEU score
 - Train model more
 	- [x] Post-processing output
