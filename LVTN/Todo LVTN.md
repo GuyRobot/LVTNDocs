@@ -1,0 +1,3 @@
+- Cleanup dataset
+- Train model with clean dataset
+- Evaluate
