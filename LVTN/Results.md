@@ -13,3 +13,13 @@ BART re-attention
 
 BART VN
 ![[Pasted image 20231113170129.png]]
+
+BART Re-attention
+![[Pasted image 20231114131507.png]]
+
+BART VN Re-attention (GuysTrans/bart-base-vn-re-attention)
+![[Pasted image 20231114151714.png]]
+
+BART Re-attention
+![[Pasted image 20231115130408.png]]
+![[Pasted image 20231115130356.png]]
