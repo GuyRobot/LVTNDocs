@@ -23,3 +23,11 @@ BART VN Re-attention (GuysTrans/bart-base-vn-re-attention)
 BART Re-attention
 ![[Pasted image 20231115130408.png]]
 ![[Pasted image 20231115130356.png]]
+
+
+
+
+
+
+BART Re attention (GuysTrans/bart-base-re-attention-seq-512 - EHealthChatDataset_seq_512 - 10000)
+![[Pasted image 20231122130306.png]]

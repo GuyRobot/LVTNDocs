@@ -1,5 +1,8 @@
-- Page 44
-- Page 45
-- Page 46
-- Increase text size in diagram
-- Add more trained models, approach
+- [x] Page 44
+- [x] Page 45
+- [x] Page 46
+- [x] Increase text size in diagram
+- Add more trained models, approach (optional)
+- Add compare with others papers
+- Write paragraph with more than one sentence
+- [x] Add one more paper chatbot
