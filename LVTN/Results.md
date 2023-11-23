@@ -31,3 +31,19 @@ BART Re-attention
 
 BART Re attention (GuysTrans/bart-base-re-attention-seq-512 - EHealthChatDataset_seq_512 - 10000)
 ![[Pasted image 20231122130306.png]]
+
+
+BART (GuysTrans/bart-base-finetuned-xsum - EHealthChatDataset - 10000)
+![[Pasted image 20231123100747.png]]
+
+
+BART VN re attention (GuysTrans/bart-base-vn-re-attention-vn-tokenizer - EHealthVNChatDataCrawled - 10000)
+![[Pasted image 20231123131143.png]]
+
+
+BART VN (GuysTrans/bart-base-vn-ehealth-vn-tokenizer - EHealthVNChatDataCrawled - 10000)
+![[Pasted image 20231123172322.png]]
+
+
+BART re-attention mini 
+|19.695600|8.721800|16.131600|18.907100|
