@@ -6,6 +6,10 @@ BART:
 BART Translate: hf_bart_translation.ipynb
 ![[Pasted image 20231106144634.png]]
 ![[Pasted image 20231106164123.png]]
+![[Pasted image 20231125204312.png]]
+
+BART summary
+![[Pasted image 20231125211223.png]]
 
 BART re-attention
 ![[Screenshot 2023-11-05 112332.png]]
